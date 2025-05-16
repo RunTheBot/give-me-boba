@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    background:navy
+}
+
+img {
+    max-width: 800px
+}
+
+p {
+    color:red
+}
+
+h1 {
+    color: purple;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
